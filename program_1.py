@@ -6,7 +6,6 @@ import tkinter as tk
 root = tk.Tk()
 root.title("Favorite Saying")
 root.geometry("400x200")
-root.configure(bg="#f0f0f0")
 
 favorite_saying = ("In the same way, let your light shine before others, "
                    "that they may see your good deeds and glorify "
